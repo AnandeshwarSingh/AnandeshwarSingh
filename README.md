@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @AnandeshwarSingh
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking for Job.
-- 📫 How to reach me https://www.linkedin.com/in/anandeshwar-singh-a506361aa/
-- 😄 Pronouns: He
-- ⚡ Fun fact: I once participated in a 48-hour hackathon and built a working app.
+👋 Hi, I’m Anandeshwar Singh
+💻 Software Engineer | Full Stack Developer
+👀 Passionate about building scalable web applications and solving real-world problems with technology.
+🌱 Currently exploring React.js, Spring Boot, and SQL to strengthen my full-stack development skills.
+💼 Actively looking for opportunities in Software Development / SQL Development.
+📫 Connect with me: https://www.linkedin.com/in/anandeshwar-singh-a506361aa/
+⚡ Fun fact: I learned React in just 15 days and built a complete project using it!
 
 <!---
 Anandeshwar Singh/Anandeshwar Singh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
